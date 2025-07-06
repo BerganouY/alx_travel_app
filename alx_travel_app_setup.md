@@ -396,7 +396,7 @@ env/
 ENV/
 
 # Environment Variables
-.env
+alx_travel_app/.env
 .env.local
 .env.production
 
